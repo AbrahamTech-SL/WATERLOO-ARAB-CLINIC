@@ -1,0 +1,6 @@
+{
+  "name": "Waterloo Arab Clinic",
+  "description": "Premium modern healthcare platform for Waterloo Arab Clinic in Sierra Leone, offering booking, health services, maternal care, pediatric care, and health resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
